@@ -14,3 +14,5 @@ To run the script:
 - For this Script I use the Puppeteer library: Type in your terminal "npm i puppeteer"
 
 - To run the Script type in your terminal "node index.js"
+
+NOTE: to choose the genre of books you can type the genre in the line 17 of the index.js file.
